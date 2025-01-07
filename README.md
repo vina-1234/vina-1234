@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Vinayaki
 
 A Java Full Stack Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://user-images.githubusercontent.com/53649201/98462016-ee51fa80-21d6-11eb-92b9-393853f5490b.gif)">
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on creating a fascinating websites
 - 🤔 I’m looking for help with Placements in FAANG
