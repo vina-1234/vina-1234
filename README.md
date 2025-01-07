@@ -16,7 +16,7 @@ A Java Full Stack Developer
 <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
